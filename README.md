@@ -1,6 +1,6 @@
 <div align="center">
 
-###👋 **Hi there, I'm Alice**
+### 👋 **Hi there, I'm Alice**
 
 ## ✨ About Me:
 - 🎓 Computer Science student at **AGH University of Krakow** 

@@ -1,10 +1,6 @@
 <div align="center">
  
-# Hi there, I'm Alice 👋
-
-
- 🌟 Welcome to my page 🌟
-
+# 👋 Hi there, I'm Alice
   
 ## ✨ About Me:
 </div>
